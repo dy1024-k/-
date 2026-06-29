@@ -1,0 +1,782 @@
+[
+  {
+    "province": "北京",
+    "subjectType": "综合改革",
+    "year": 2025,
+    "maxScore": 438,
+    "minScore": 437,
+    "controlLine": 430,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "北京",
+    "subjectType": "综合改革",
+    "year": 2024,
+    "maxScore": 434,
+    "minScore": 434,
+    "controlLine": 434,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "天津",
+    "subjectType": "综合改革",
+    "year": 2025,
+    "maxScore": 500,
+    "minScore": 476,
+    "controlLine": 476,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "天津",
+    "subjectType": "综合改革",
+    "year": 2024,
+    "maxScore": 491,
+    "minScore": 478,
+    "controlLine": 475,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河北",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 515,
+    "minScore": 470,
+    "controlLine": 459,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河北",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 495,
+    "minScore": 473,
+    "controlLine": 448,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河北",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 536,
+    "minScore": 512,
+    "controlLine": 477,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河北",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 502,
+    "minScore": 477,
+    "controlLine": 449,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "山西",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 456,
+    "minScore": 421,
+    "controlLine": 419,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "山西",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 419,
+    "minScore": 408,
+    "controlLine": 380,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "山西",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 495,
+    "minScore": 451,
+    "controlLine": 443,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "山西",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 448,
+    "minScore": 444,
+    "controlLine": 402,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "内蒙古",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 435,
+    "minScore": 411,
+    "controlLine": 375,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "内蒙古",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 433,
+    "minScore": 369,
+    "controlLine": 360,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "内蒙古",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 452,
+    "minScore": 436,
+    "controlLine": 418,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "辽宁",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 462,
+    "minScore": 412,
+    "controlLine": 367,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "辽宁",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 445,
+    "minScore": 422,
+    "controlLine": 368,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "辽宁",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 464,
+    "minScore": 458,
+    "controlLine": 437,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "辽宁",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 481,
+    "minScore": 427,
+    "controlLine": 400,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "吉林",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 396,
+    "minScore": 372,
+    "controlLine": 340,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "吉林",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 410,
+    "minScore": 383,
+    "controlLine": 345,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "黑龙江",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 388,
+    "minScore": 367,
+    "controlLine": 360,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "黑龙江",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 404,
+    "minScore": 364,
+    "controlLine": 360,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "江苏",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 485,
+    "minScore": 468,
+    "controlLine": 463,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "江苏",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 494,
+    "minScore": 466,
+    "controlLine": 462,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "江苏",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 503,
+    "minScore": 497,
+    "controlLine": 482,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "江苏",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 502,
+    "minScore": 480,
+    "controlLine": 478,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "浙江",
+    "subjectType": "综合改革",
+    "year": 2025,
+    "maxScore": 547,
+    "minScore": 477,
+    "controlLine": 268,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "浙江",
+    "subjectType": "综合改革",
+    "year": 2024,
+    "maxScore": 593,
+    "minScore": 471,
+    "controlLine": 269,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "安徽",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 491,
+    "minScore": 469,
+    "controlLine": 461,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "安徽",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 550,
+    "minScore": 483,
+    "controlLine": 465,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "福建",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 469,
+    "minScore": 455,
+    "controlLine": 441,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "福建",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 486,
+    "minScore": 479,
+    "controlLine": 449,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "江西",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 450,
+    "minScore": 443,
+    "controlLine": 429,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "江西",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 478,
+    "minScore": 460,
+    "controlLine": 448,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "江西",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 503,
+    "minScore": 495,
+    "controlLine": 486,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "山东",
+    "subjectType": "综合改革",
+    "year": 2025,
+    "maxScore": 502,
+    "minScore": 447,
+    "controlLine": 441,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "山东",
+    "subjectType": "综合改革",
+    "year": 2024,
+    "maxScore": 568,
+    "minScore": 445,
+    "controlLine": 444,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河南",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 493,
+    "minScore": 428,
+    "controlLine": 427,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河南",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 467,
+    "minScore": 444,
+    "controlLine": 396,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河南",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 511,
+    "minScore": 494,
+    "controlLine": 471,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "河南",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 482,
+    "minScore": 463,
+    "controlLine": 428,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "湖北",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 446,
+    "minScore": 432,
+    "controlLine": 426,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "湖北",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 479,
+    "minScore": 476,
+    "controlLine": 437,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "湖南",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 439,
+    "minScore": 415,
+    "controlLine": 405,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "湖南",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 460,
+    "minScore": 436,
+    "controlLine": 422,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "广东",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 480,
+    "minScore": 464,
+    "controlLine": 436,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "广东",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 484,
+    "minScore": 479,
+    "controlLine": 442,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "广西",
+    "subjectType": "艺术(历史类)",
+    "year": 2025,
+    "maxScore": 464,
+    "minScore": 421,
+    "controlLine": null,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "广西",
+    "subjectType": "艺术(历史类)",
+    "year": 2024,
+    "maxScore": 467,
+    "minScore": 410,
+    "controlLine": null,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "海南",
+    "subjectType": "综合改革",
+    "year": 2025,
+    "maxScore": 508,
+    "minScore": 497,
+    "controlLine": 480,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "海南",
+    "subjectType": "综合改革",
+    "year": 2024,
+    "maxScore": 519,
+    "minScore": 483,
+    "controlLine": 483,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "重庆",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 457,
+    "minScore": 442,
+    "controlLine": 425,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "重庆",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 474,
+    "minScore": 435,
+    "controlLine": 427,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "四川",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 492,
+    "minScore": 438,
+    "controlLine": 438,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "四川",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 485,
+    "minScore": 475,
+    "controlLine": 459,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "四川",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 517,
+    "minScore": 472,
+    "controlLine": 467,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "四川",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 491,
+    "minScore": 486,
+    "controlLine": 457,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "贵州",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 427,
+    "minScore": 402,
+    "controlLine": 387,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "贵州",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 438,
+    "minScore": 401,
+    "controlLine": 380,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "云南",
+    "subjectType": "艺术\n(历史类)",
+    "year": 2025,
+    "maxScore": 519,
+    "minScore": 485,
+    "controlLine": null,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "云南",
+    "subjectType": "艺术\n(历史类)",
+    "year": 2024,
+    "maxScore": 69,
+    "minScore": 66,
+    "controlLine": null,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "陕西",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 469,
+    "minScore": 416,
+    "controlLine": 394,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "陕西",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 453,
+    "minScore": 424,
+    "controlLine": 372,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "陕西",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 497,
+    "minScore": 458,
+    "controlLine": 414,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "陕西",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 478,
+    "minScore": 448,
+    "controlLine": 397,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "甘肃",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 419,
+    "minScore": 385,
+    "controlLine": 374,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "甘肃",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 424,
+    "minScore": 411,
+    "controlLine": 370,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "甘肃",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 450,
+    "minScore": 433,
+    "controlLine": 412,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "甘肃",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 462,
+    "minScore": 443,
+    "controlLine": 421,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "青海",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 362,
+    "minScore": 350,
+    "controlLine": 350,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "青海",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 386,
+    "minScore": 330,
+    "controlLine": 325,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "宁夏",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 419,
+    "minScore": 405,
+    "controlLine": 372,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "宁夏",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 428,
+    "minScore": 388,
+    "controlLine": 371,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "新疆",
+    "subjectType": "物理类",
+    "year": 2025,
+    "maxScore": 334,
+    "minScore": 280,
+    "controlLine": 280,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "新疆",
+    "subjectType": "物理类",
+    "year": 2024,
+    "maxScore": 350,
+    "minScore": 285,
+    "controlLine": 262,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "新疆",
+    "subjectType": "历史类",
+    "year": 2025,
+    "maxScore": 350,
+    "minScore": 343,
+    "controlLine": 330,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  },
+  {
+    "province": "新疆",
+    "subjectType": "历史类",
+    "year": 2024,
+    "maxScore": 335,
+    "minScore": 316,
+    "controlLine": 304,
+    "sourceName": "用户上传 Excel：近两年分省份录取分数统计",
+    "verified": true
+  }
+]
